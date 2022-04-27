@@ -1,0 +1,8 @@
+Name: Lim min
+Age: 34
+Medical History: nil
+Phone Number: 23
+Blood Type: A+
+Condition: Bad
+Department: Pediatrics
+Doctor In Charged: Ng Ling
