@@ -53,4 +53,10 @@ In our Console Application, we have used two data structures to store and manipu
 
 You may add in few more departments or doctors that you want but you shall not forget to add the doctor's name into the Doctor DB txt file, else it will not be displayed to the user. 
 
+### Header Files Used
+
+We have used mutiple header files for different purposes. 
+- *patient.h* is used to declare patient class and define its methods.
+- *doctor_list.h* is used to declare doctor_list class and node struct for linked list.
+- *application.h* is used to store all the functions that required to run the application smoothly. 
 
