@@ -1,0 +1,8 @@
+Name: Alya Natasha
+Age: 27
+Medical History: Nil
+Phone Number: 017-8524152
+Blood Type: B-
+Condition: Normal
+Department: Cardiology
+Doctor In Charged: Yang

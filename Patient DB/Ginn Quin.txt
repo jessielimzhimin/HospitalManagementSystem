@@ -1,0 +1,8 @@
+Name: Ginn Quin
+Age: 45
+Medical History: None
+Phone Number: 0152457845
+Blood Type: A-
+Condition: Normal
+Department: General
+Doctor In Charged: Ramar Omar

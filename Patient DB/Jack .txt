@@ -1,0 +1,8 @@
+Name: Jack 
+Age: 21
+Medical History: None
+Phone Number: 0125245998
+Blood Type: b-
+Condition: Normal
+Department: Spine Surgery
+Doctor In Charged: Samuel Keith

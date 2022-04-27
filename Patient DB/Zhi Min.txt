@@ -1,0 +1,8 @@
+Name: Zhi Min
+Age: 34
+Medical History: NIl
+Phone Number: 332242
+Blood Type: a+
+Condition: Bad
+Department: Pediatrics
+Doctor In Charged: Ng Ling

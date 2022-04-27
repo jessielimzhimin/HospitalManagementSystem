@@ -1,0 +1,8 @@
+Name: Dylon
+Age: 45
+Medical History: None
+Phone Number: 2156521548
+Blood Type: ab+
+Condition: Normal
+Department: Geriatrics
+Doctor In Charged: Pariathishiny

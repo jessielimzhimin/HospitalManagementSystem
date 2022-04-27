@@ -1,0 +1,8 @@
+Name: Ellen Yong
+Age: 65
+Medical History: None
+Phone Number: 018-9589526
+Blood Type: ab-
+Condition: Normal
+Department: Cardiology
+Doctor In Charged: Grey

@@ -1,0 +1,8 @@
+Name: Aida Aileen
+Age: 9
+Medical History: Nil
+Phone Number: 012-9589625
+Blood Type: AB+
+Condition: Bad
+Department: Pediatrics
+Doctor In Charged: Ng Ling

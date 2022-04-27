@@ -1,0 +1,8 @@
+Name: Andy tan
+Age: 15
+Medical History: None
+Phone Number: 0125458754
+Blood Type: b-
+Condition: Normal
+Department: Geriatrics
+Doctor In Charged: Darshinee

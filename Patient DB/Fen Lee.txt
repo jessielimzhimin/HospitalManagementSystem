@@ -1,0 +1,8 @@
+Name: Fen Lee
+Age: 12
+Medical History: None
+Phone Number: 12540125475
+Blood Type: O-
+Condition: Normal
+Department: Pediatrics
+Doctor In Charged: Ng Ling

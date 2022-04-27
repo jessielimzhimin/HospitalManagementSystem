@@ -1,0 +1,8 @@
+Name: Wein
+Age: 23
+Medical History: None
+Phone Number: 0125478541
+Blood Type: ab+
+Condition: Normal
+Department: Geriatrics
+Doctor In Charged: Darshinee

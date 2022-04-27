@@ -1,0 +1,8 @@
+Name: Gregory George
+Age: 32
+Medical History: Nil
+Phone Number: 014-5421585
+Blood Type: B+
+Condition: Bad
+Department: Cardiology
+Doctor In Charged: Yang
