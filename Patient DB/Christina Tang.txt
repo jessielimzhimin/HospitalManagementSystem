@@ -1,8 +1,0 @@
-Name: Christina Tang
-Age: 23
-Medical History: Nil
-Phone Number: 016-9587547
-Blood Type: A+
-Condition: Normal
-Department: General
-Doctor In Charged: Ramar Omar

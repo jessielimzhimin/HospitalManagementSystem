@@ -1,8 +1,0 @@
-Name: Kumaresh Raaj
-Age: 47
-Medical History: Nil
-Phone Number: 0124587514
-Blood Type: A+
-Condition: Bad
-Department: General
-Doctor In Charged: Ramar Omar
