@@ -1,4 +1,4 @@
-# Hospital Management System
+# :hospital: Hospital Management System 
 
 ## Project Background
 
