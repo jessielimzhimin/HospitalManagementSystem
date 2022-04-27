@@ -60,7 +60,7 @@ We have used mutiple header files for different purposes.
 - *doctor_list.h* is used to declare doctor_list class and node struct for linked list.
 - *application.h* is used to store all the functions that required to run the application smoothly. 
 
-## :raised_hands: Project Teammate
+## :raised_hands: Project Members
 - Leader: Lim Zhi Min
 - Team Member: Bryan Keane
 
