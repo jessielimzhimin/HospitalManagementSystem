@@ -61,6 +61,6 @@ We have used mutiple header files for different purposes.
 - *application.h* is used to store all the functions that required to run the application smoothly. 
 
 ## :raised_hands: Project Members
-- Leader: Lim Zhi Min
-- Team Member: Bryan Keane
+- Lim Zhi Min
+- Bryan Keane
 
